@@ -6,7 +6,7 @@
 
 A simple four function calculator with powers, square root, and the PI function attached. 22 Separate buttons.
 
-![RunningCalculator]()
+![RunningCalculator](https://github.com/scooba16/Portfolio/blob/main/images/Calculator.png?raw=true)
 
 * [Windows]()
 * [MacOS]()
