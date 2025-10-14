@@ -9,5 +9,5 @@ A simple four function calculator with powers, square root, and the PI function 
 ![RunningCalculator](https://github.com/scooba16/Portfolio/blob/main/images/Calculator.png?raw=true)
 
 * [Windows](https://github.com/scooba16/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
-* [MacOS]()
+* [MacOS](https://github.com/scooba16/Portfolio/blob/main/src/Calculator/macos-x86_64.zip)
 * [SourceCode]()
