@@ -4,7 +4,7 @@
 
 ### Simple Calculator (2025)
 
-A simple four function calculator with powers, square root, and the PI function attached. 23 Separate buttons.
+A simple four function calculator with powers, square root, and the PI function attached. 22 Separate buttons.
 
 ![RunningCalculator]()
 
