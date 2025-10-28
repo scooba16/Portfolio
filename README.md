@@ -6,7 +6,7 @@
 
 
 
-![UML]([https://github.com/scooba16/Portfolio](https://github.com/scooba16/Portfolio/blob/main/images/CalcUML.jpg))
+![UML](https://github.com/scooba16/Portfolio/blob/main/images/CalcUML.jpg)
 
 ![RunningCalculator](https://github.com/scooba16/Portfolio/blob/main/images/Calculator.png?raw=true)
 
